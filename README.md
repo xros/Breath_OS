@@ -12,7 +12,7 @@ The Breath OS is still under development before releasing. But here I would like
 How was Breath OS built?
 ------------------------
 
-Breath OS is created from a basic tutorial of [LFS 8.0 with Systemd](www.linuxfromscratch.org).
+Breath OS is created from a basic tutorial of [LFS 8.0 with Systemd](https://www.linuxfromscratch.org).
 
 But the linuxfromscratch.org doesn't provide a live CD for building LFS anymore after LFS version 6.2 . So I created a new environment for building LFS. You can download my [environment](https://github.com/xros/Breath_OS#3-my-whole-environment-for-building-the-a-new-os) and build your system from source codes. It comes along with everything you need for LFS. You can even build the OS without Internet.
 
@@ -27,6 +27,8 @@ Download link: https://pan.baidu.com/s/1pLRRYuJ
 
 Password: 76q5 
 
+sha256sum: 8773be4ae6a422dde9901faee341eb86118d8dc7b47d20b497358b98d286c94c
+
 If you can read Chinese, you can visit [here](http://www.cnblogs.com/spaceship9/p/6526887.html) to read some of my experiences about building a new OS.
 
 #### 2. LFS-8.0-systemd-tools-compiled.tar.gz
@@ -39,6 +41,8 @@ Download link: https://pan.baidu.com/s/1o8ns9nG
 
 Password: fbmr
 
+sha256sum: 69e395443f4a46cd863940b905949138ed78928ddb94f364e647f9be27fca18f
+
 #### 3. My whole environment for building the a new OS
 
 I created a Virtual Machine based on Ubuntu16.04 64bit. And I installed all required packages for building LFS. In the Virtual Machine, I attached all `LFS-8.0-systemd-manual-all-pkgs.tar.gz` and I wrote a tutorial inside of the Virtual Machine. You can use Virtualbox to import it.
@@ -46,6 +50,8 @@ I created a Virtual Machine based on Ubuntu16.04 64bit. And I installed all requ
 Download link: https://pan.baidu.com/s/1geGwP1L
 
 Password: x289 
+
+sha256sum: 5267abeb7e5429d28a6ab0561ae8a802ff78c9c51d9461f70e19c1bdaf26d624
 
 Default username: jake
 

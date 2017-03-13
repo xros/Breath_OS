@@ -56,3 +56,5 @@ sha256sum: 5267abeb7e5429d28a6ab0561ae8a802ff78c9c51d9461f70e19c1bdaf26d624
 Default username: jake
 
 Default password: jake
+
+![LFS all-in-one VM](static/lfs-in-VM-all-in-one.png)

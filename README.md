@@ -4,13 +4,15 @@ By Alexander Liu
 
 The Breath OS is a new GNU/Linux OS built from source codes. It isn't like any other Linux destros because you have 100% control over it.
 
+![Breath OS starting up](static/Breath_OS_startup.png)
+
 The Breath OS is still under development before releasing. But here I would like to share that how I made Breath OS step by step.
 
 
 How was Breath OS built?
 ------------------------
 
-Breath OS is created from a basic tutorial of ![LFS 8.0 with Systemd](www.linuxfromscratch.org].
+Breath OS is created from a basic tutorial of [LFS 8.0 with Systemd](www.linuxfromscratch.org].
 
 But the linuxfromscratch.org doesn't provide a live CD for building LFS anymore after LFS version 6.2 . So I created a new environment for building LFS. You can download my environment and build your system from source codes.
 
@@ -27,7 +29,7 @@ Password: 76q5
 
 If you can read Chinese, you can visit [here](http://www.cnblogs.com/spaceship9/p/6526887.html) to read some of my experiences about building a new OS.
 
-#### 2. LFS-8.0-systemd-tools-compiled
+#### 2. LFS-8.0-systemd-tools-compiled.tar.gz
 
 This includes all the tools compiled for building the new OS.
 

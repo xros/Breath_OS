@@ -12,9 +12,9 @@ The Breath OS is still under development before releasing. But here I would like
 How was Breath OS built?
 ------------------------
 
-Breath OS is created from a basic tutorial of [LFS 8.0 with Systemd](www.linuxfromscratch.org].
+Breath OS is created from a basic tutorial of [LFS 8.0 with Systemd](www.linuxfromscratch.org).
 
-But the linuxfromscratch.org doesn't provide a live CD for building LFS anymore after LFS version 6.2 . So I created a new environment for building LFS. You can download my environment and build your system from source codes.
+But the linuxfromscratch.org doesn't provide a live CD for building LFS anymore after LFS version 6.2 . So I created a new environment for building LFS. You can download my [environment](https://github.com/xros/Breath_OS#3-my-whole-environment-for-building-the-a-new-os) and build your system from source codes. It comes along with everything you need for LFS. You can even build the OS without Internet.
 
 
 Downloads
@@ -33,7 +33,7 @@ If you can read Chinese, you can visit [here](http://www.cnblogs.com/spaceship9/
 
 This includes all the tools compiled for building the new OS.
 
-Note: The tools are only for building the OS and they are the base for building a new OS. But it could be deleted after the new OS was built.
+Note: The tools are only for building the OS and they are the base for building a new OS. But it could be deleted after the new OS was built. Compiling all the tools can be very time consuming, you can start from here if you want to save some time.
 
 Download link: https://pan.baidu.com/s/1o8ns9nG
 
@@ -50,5 +50,3 @@ Password: x289
 Default username: jake
 
 Default password: jake
-
-

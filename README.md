@@ -42,6 +42,7 @@ Default password: jake
 
 #### 2. LFS-8.0-systemd-manual-all-pkgs.tar.gz
 This includes all source codes of packages which LFS-8.0-systemd needs. And it comes with a PDF/HTML manual for building your LFS system!
+
     Already included in file `Ubuntu-16.04.1-64bit-LFS-8.0-Systemd-By-A.Liu.tar.gz`
 
 Download link: https://pan.baidu.com/s/1pLRRYuJ
@@ -55,6 +56,7 @@ If you can read Chinese, you can visit [here](http://www.cnblogs.com/spaceship9/
 #### 3. LFS-8.0-systemd-tools-compiled.tar.gz
 
 This includes all the tools compiled for building the new OS.
+
     Already included in file `Ubuntu-16.04.1-64bit-LFS-8.0-Systemd-By-A.Liu.tar.gz`
 
 Note: The tools are only for building the OS and they are the base for building a new OS. But it could be deleted after the new OS was built. Compiling all the tools can be very time consuming, you can start from here if you want to save some time.
